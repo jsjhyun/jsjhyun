@@ -1,8 +1,11 @@
 <p align="center"><a href="https://github.com/jsjhyun"><img width="80%" alt="Hello, I'm Hyun. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+<br/>
 트렌드를 반영하고 높은 수용성으로 최적의 솔루션을 코디
+
 **패셔니스타 개발자, 정 현입니다.**
+
+<br>
 
 **About me**
 
@@ -28,18 +31,15 @@
 
 
 <a href="https://github.com/jsjhyun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=github-readme-stats&theme=buefy&v=1" />
 </a>
 <a href="https://github.com/jsjhyun/jsjhyun.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=jsjhyun.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=jsjhyun.github.io&theme=buefy&v=1" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/jsjhyun">
-  <img align="right" alt="Jeong Hyun | Twitter" width="21px" src="https://raw.githubusercontent.com/jsjhyun/jsjhyun/master/assets/twitter.svg" />
-</a>
 <a href="https://codesandbox.io/u/jsjhyun">
   <img align="right" alt="Jeong Hyun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/jsjhyun/jsjhyun/master/assets/codesandbox.svg" />
 </a>
