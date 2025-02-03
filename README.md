@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="358" alt="스크린샷" src="https://github.com/user-attachments/assets/c307f109-1eec-4450-8827-7f5adfc308d9" />
+  <img width="685" alt="스크린샷 2025-02-03 오후 5 04 21" src="https://github.com/user-attachments/assets/ac8c619f-c559-4e13-b738-dc4ad6ccee85" />
 </p>
 
 <br/>
-트렌드를 반영하고 높은 수용성으로 최적의 솔루션을 코디
+🧣 트렌드를 반영하고 높은 수용성으로 최적의 솔루션을 코디
 
 **패셔니스타 개발자, 정 현입니다.**
 
