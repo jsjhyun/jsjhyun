@@ -15,7 +15,7 @@
 
 - 🧩 요구사항에 최적화된 기술적 코디네이션
 
-- 🔥 실행력으로 가치를 창출하는 문제 해결형 개발자
+- 🔥 문제 해결을 즐기는, 추진력 있는 개발자
 
 - 💬 Ask me about anything [here](https://github.com/jsjhyun/jsjhyun/issues)
 
