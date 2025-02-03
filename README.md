@@ -1,4 +1,6 @@
-<p align="center"><a href="https://github.com/jsjhyun"><img width="80%" alt="Hello, I'm Hyun. I do open source!"/></a></p>
+<p align="center">
+  <img width="358" alt="스크린샷" src="https://github.com/user-attachments/assets/c307f109-1eec-4450-8827-7f5adfc308d9" />
+</p>
 
 <br/>
 트렌드를 반영하고 높은 수용성으로 최적의 솔루션을 코디
