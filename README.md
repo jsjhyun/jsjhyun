@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-| <a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <br />
