@@ -15,7 +15,7 @@
 
 - 🧩 요구사항에 최적화된 기술적 코디네이션
 
-- 🔥 문제 해결을 즐기는, 추진력 있는 개발자
+- 🔥 도전 정신과 진취성을 가지고 있는 개발자
 
 - 💬 Ask me about anything [here](https://github.com/jsjhyun/jsjhyun/issues)
 
@@ -29,18 +29,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-| <a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsjhyun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/jsjhyun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=HR-handlers-BE&theme=buefy&v=1" />
-</a>
-<a href="https://github.com/jsjhyun/jsjhyun.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jsjhyun&repo=PyeonJip-BE&theme=buefy&v=1" />
-</a>
-
-<br />
 <br />
