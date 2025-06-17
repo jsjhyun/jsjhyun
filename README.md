@@ -20,33 +20,32 @@
 - 💬 Ask me about anything [here](https://github.com/jsjhyun/jsjhyun/issues)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/jsjhyun/github-readme-stats">
+<div>
+  <a href="https://github.com/jsjhyun/github-readme-stats" style="display: inline-block;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" 
       alt="Top Languages"
     />
   </a>
 
+<p align="center">
   <a href="https://app.vijob.net/ko/job" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/1bc9d928-69ab-4fd5-9666-57c6b438570c"
+      src="https://github.com/user-attachments/assets/2806f48d-bae2-432c-8542-f7ee9361f0b1"
       alt="Vijob"
-      width="100"
-      style="border-radius: 30px;"
+      width="60"
+      style="border-radius: 12px;"
     />
   </a>
-</div>
+</p>
 
+<p align="center"><sub>외국인 구직자를 위한 플랫폼</sub></p>
 <br />
