@@ -27,8 +27,31 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
 </p>
 
-<a href="https://github.com/jsjhyun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" /></a>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/jsjhyun/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://vijob.net" target="_blank">
+        <img 
+          src="https://github.com/user-attachments/assets/1bc9d928-69ab-4fd5-9666-57c6b438570c" 
+          alt="Vijob" 
+          width="100" 
+          style="border-radius: 12px;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
+
+
+- Website: [https://[your-company-site.com](https://app.vijob.net/ko/job)]
