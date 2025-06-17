@@ -31,27 +31,22 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
 </p>
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/jsjhyun/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://vijob.net" target="_blank">
-        <img 
-          src="https://github.com/user-attachments/assets/1bc9d928-69ab-4fd5-9666-57c6b438570c" 
-          alt="Vijob" 
-          width="100" 
-          style="border-radius: 12px;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/jsjhyun/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+
+  <a href="https://app.vijob.net/ko/job" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/1bc9d928-69ab-4fd5-9666-57c6b438570c"
+      alt="Vijob"
+      width="100"
+      style="border-radius: 30px;"
+    />
+  </a>
+</div>
 
 <br />
-
-
-- Website: [https://[your-company-site.com](https://app.vijob.net/ko/job)]
