@@ -11,7 +11,7 @@
 
 **About me**
 
-- 💼 BackEnd Engineer
+- 💼 Software Engineer
 
 - 🧩 요구사항에 최적화된 기술적 코디네이션
 
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
@@ -35,6 +36,8 @@
       alt="Top Languages"
     />
   </a>
+
+<br />
 
 <p align="center">
   <a href="https://app.vijob.net/ko/job" target="_blank">
@@ -47,5 +50,5 @@
   </a>
 </p>
 
-<p align="center"><sub>외국인 구직자를 위한 플랫폼</sub></p>
+<p align="center"><sub>외국인 구직자를 위한 종합 플랫폼</sub></p>
 <br />
