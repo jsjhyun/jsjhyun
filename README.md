@@ -37,9 +37,7 @@
     <img 
       width="60" 
       height="60" 
-      style="border-radius: 12px; margin-right: 32px; transition: transform 0.2s;"
-      onmouseover="this.style.transform='scale(1.15)';"
-      onmouseout="this.style.transform='scale(1)';"
+      style="border-radius: 12px; margin-right: 32px;
       alt="vijob-app" 
       src="https://github.com/user-attachments/assets/3a59e501-7150-4765-ba20-26a9ff948379" 
     />
@@ -49,9 +47,7 @@
     <img 
       width="60" 
       height="60" 
-      style="border-radius: 12px; transition: transform 0.2s;"
-      onmouseover="this.style.transform='scale(1.15)';"
-      onmouseout="this.style.transform='scale(1)';"
+      style="border-radius: 12px;
       alt="icon" 
       src="https://github.com/user-attachments/assets/4626a407-1fbf-4e81-a89f-b75c1d54322c"
     />
