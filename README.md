@@ -33,12 +33,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true" 
-      alt="Top Languages" 
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <br/>
@@ -49,7 +47,7 @@
     <img 
       width="60" 
       height="60" 
-      style="border-radius: 12px; margin-right: 12px; transition: transform 0.2s;"
+      style="border-radius: 12px; margin-right: 32px; transition: transform 0.2s;"
       onmouseover="this.style.transform='scale(1.15)';"
       onmouseout="this.style.transform='scale(1)';"
       alt="vijob-app" 
