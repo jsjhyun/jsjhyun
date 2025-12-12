@@ -32,15 +32,6 @@
 
 <br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jsjhyun&layout=compact&theme=buefy&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<br/>
-
 <!-- Vijob Vridge 로고 -->
 <p align="center">
   <a href="https://app.vijob.net/ko/job" target="_blank">
