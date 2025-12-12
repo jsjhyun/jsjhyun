@@ -38,13 +38,15 @@
     <img 
       width="60" 
       height="60" 
-      style="border-radius: 12px; margin-right: 32px; transition: transform 0.2s;"
+      style="border-radius: 12px; transition: transform 0.2s;"
       onmouseover="this.style.transform='scale(1.15)';"
       onmouseout="this.style.transform='scale(1)';"
       alt="vijob-app" 
       src="https://github.com/user-attachments/assets/3a59e501-7150-4765-ba20-26a9ff948379" 
     />
   </a>
+
+  <span style="display:inline-block; width:40px;"></span>
 
   <a href="https://vridge.vijob.net" target="_blank">
     <img 
