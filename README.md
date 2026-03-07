@@ -31,29 +31,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://app.vijob.net/ko/job" target="_blank">
-    <img 
-      width="60" 
-      height="60" 
-      style="border-radius: 12px; margin-right: 32px;
-      alt="vijob-app" 
-      src="https://github.com/user-attachments/assets/3a59e501-7150-4765-ba20-26a9ff948379" 
-    />
-  </a>
-
-  <a href="https://vridge.vijob.net" target="_blank">
-    <img 
-      width="60" 
-      height="60" 
-      style="border-radius: 12px;
-      alt="icon" 
-      src="https://github.com/user-attachments/assets/4626a407-1fbf-4e81-a89f-b75c1d54322c"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>외국인 구직자를 위한 종합 플랫폼</sub>
-</p>
